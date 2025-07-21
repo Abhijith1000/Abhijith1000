@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijith Gangadharan</h1>
-<h3 align="center">CSE Student | Open Source Enthusiast | Exploring Python & C</h3>
+<h3 align="center">CSE Student | Open Source Enthusiast | Exploring Python and Web Development
 
 ---
 
