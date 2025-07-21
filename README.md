@@ -35,9 +35,8 @@
 ### 🟩 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith1000&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijith1000&theme=radical" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
