@@ -33,16 +33,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/Abhijith1000/Abhijith1000/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/abhijith-gangadharan](https://www.linkedin.com/in/abhijith-gangadharan/)
-- ✉️ Email: your-email@example.com
-- 🌐 Portfolio: *Coming soon!*
+- 💼 LinkedIn: https://www.linkedin.com/in/abhijith-gangadharan-3b8288256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- ✉️ Email: abhijithgangadharan.mec@gmail.com
+- 🌐 Portfolio:https://abhijith-gangadharan-website.onrender.com
 
 ---
 
