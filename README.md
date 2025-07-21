@@ -26,9 +26,17 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abhijith-gangadharan-3b8288256)
-- [Email](mailto:abhijithgangadharan.mec@gmail.com)
-- [Portfolio](https://abhijith-gangadharan-website.onrender.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijith-gangadharan-3b8288256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhijithgangadharan.mec@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://abhijith-gangadharan-website.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
 ---
 
