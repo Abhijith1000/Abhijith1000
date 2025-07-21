@@ -24,6 +24,22 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith1000&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🟩 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith1000&theme=radical" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 <p align="center">
